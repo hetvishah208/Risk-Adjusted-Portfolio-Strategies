@@ -10,7 +10,7 @@ This project focuses on building and testing a **diversified portfolio** using *
 - **FinalProjectB.ipynb**: Jupyter Notebook for Part B, which extends the portfolio evaluation into a new market period.
 - **PricesProjectA.csv**: Historical price data (1999-2018) for use in Part A.
 - **PricesProjectB.csv**: Extended price data (1999-2022) for out-of-sample evaluation in Part B.
-- **Final Proj A Questions.pdf** and **Final Proj B Questions.pdf**: Question sheets guiding the analysis, coding requirements, and expected deliverables.
+- Question sheets guiding the analysis, coding requirements, and expected deliverables.
 
 ## Requirements
 
